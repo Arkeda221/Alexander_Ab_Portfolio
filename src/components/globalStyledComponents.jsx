@@ -91,7 +91,7 @@ export function ToggleSwitch() {
 export const Title = styled.div`
   display: inline-block;
   margin: 0 auto;
-  font-family: "Permanent Marker";
+  font-family: "Impact";
   text-align: center;
 
   .underline {

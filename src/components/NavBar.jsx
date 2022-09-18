@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { FixedNavSpacer, ToggleSwitch } from "./globalStyledComponents";
 // Images
-import Logo from "../images/logo.svg";
+import Logo from "../images/logo.png";
 
 export default function NavBar() {
   const { theme, isExpanded, closeExpanded, toggleExpanded } = useAppContext();
@@ -24,11 +24,11 @@ export default function NavBar() {
       >
         <Container>
           <Navbar.Brand>
-            <img
-              alt="React Logo"
+        <img
+              
               src={Logo}
-              width="35"
-              height="35"
+              width="45"
+              height="45"
               className="d-inline-block align-top bg-dark rounded-circle nav-logo"
             />
           </Navbar.Brand>
