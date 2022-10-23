@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Alexander_Ab_Portfolio/static/css/main.8478ebcf.css",
-    "main.js": "/Alexander_Ab_Portfolio/static/js/main.6381beb5.js",
+    "main.js": "/Alexander_Ab_Portfolio/static/js/main.c7cc41bc.js",
     "static/media/rated-our.png": "/Alexander_Ab_Portfolio/static/media/rated-our.c0dc725a98bd634020aa.png",
     "static/media/hero-light.jpg": "/Alexander_Ab_Portfolio/static/media/hero-light.a4c1144afe08aeb07e7e.jpg",
     "static/media/tunerhub.png": "/Alexander_Ab_Portfolio/static/media/tunerhub.c32b74db56e6177dc320.png",
@@ -12,10 +12,10 @@
     "static/media/GH.svg": "/Alexander_Ab_Portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
     "index.html": "/Alexander_Ab_Portfolio/index.html",
     "main.8478ebcf.css.map": "/Alexander_Ab_Portfolio/static/css/main.8478ebcf.css.map",
-    "main.6381beb5.js.map": "/Alexander_Ab_Portfolio/static/js/main.6381beb5.js.map"
+    "main.c7cc41bc.js.map": "/Alexander_Ab_Portfolio/static/js/main.c7cc41bc.js.map"
   },
   "entrypoints": [
     "static/css/main.8478ebcf.css",
-    "static/js/main.6381beb5.js"
+    "static/js/main.c7cc41bc.js"
   ]
 }
